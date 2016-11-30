@@ -1,0 +1,45 @@
+﻿Build started 4/13/2016 22:50:13.
+     1>Project "C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sarah_Sahibzada_HW6.cpp stdafx.cpp
+         Sarah_Sahibzada_HW6.cpp
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sorted_edge_table.h(21): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\triangle.h(29): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(284): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(299): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(304): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(314): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(319): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(379): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(369) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(380): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(369) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(381): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(369) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(392): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(297) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(393): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(297) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(394): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(355) : definition of 'i' ignored
+                 c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(297) : definition of 'i' used
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(271): warning C4101: 'y_val' : unreferenced local variable
+     1>c:\users\atta\documents\visual studio 2013\projects\consoleapplication1\consoleapplication1\sarah_sahibzada_hw6.cpp(344): warning C4101: 'df' : unreferenced local variable
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         stdafx.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Debug\Sarah_Sahibzada_HW6.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Debug\Sarah_Sahibzada_HW6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Debug\Sarah_Sahibzada_HW6.lib" /MACHINE:X86 Debug\Sarah_Sahibzada_HW6.obj
+         Debug\stdafx.obj
+         ConsoleApplication1.vcxproj -> C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\Debug\Sarah_Sahibzada_HW6.exe
+     1>Done Building Project "C:\Users\Atta\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
